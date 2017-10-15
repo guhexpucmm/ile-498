@@ -93,15 +93,11 @@ Consumer electronics include devices used for entertainment:
     -desktop computers
     -paper shredders
 ===================================================================================================
-9. Life span of major appliances (In years)
+9. Life span of appliances (In years)
 
 
 ===================================================================================================
-10. Life span of small appliances (In years)
-
-
-===================================================================================================
-11. Networking of home appliances
+10. Networking of home appliances
 
 There is a trend of networking home appliances together, and combining their controls and key 
 functions. For instance, energy distribution could be managed more evenly so that when a washing 
