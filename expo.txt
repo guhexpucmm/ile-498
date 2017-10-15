@@ -1,14 +1,14 @@
 ===================================================================================================
-What is a home a appliance?
+1. What is a home a appliance?
 
 A home appliance are electrical/mechanical machines which acomplish some household functions, such 
 as cooling/healing, cooking or cleaning.
 ===================================================================================================
-Why do we need it?
+2. Why do we need it?
 
 Home appliances makes our home lifes a lot easier by minimizing human effort.
 ===================================================================================================
-Why do we used it for?
+3. Why do we used it for?
 
 Home appliances can be used for lots of differents task such as:
     -Reheat food
@@ -16,12 +16,14 @@ Home appliances can be used for lots of differents task such as:
     -Toast breads
     -Make quick coffee
 ===================================================================================================
+4. How they can be classified?
+
 Home appliances can be classified into several categories:
     -Major appliances
     -Small appliances
     -Consumer electronics
 ===================================================================================================
-While many appliances have existed for centuries, the self-contained electric or gas powered 
+5. While many appliances have existed for centuries, the self-contained electric or gas powered 
 appliances are a uniquely American innovation that emerged in the twentieth century. 
 The development of these appliances is tied the disappearance of full-time domestic servants and 
 the desire to reduce the time consuming activities in pursuit of more recreational time. 
@@ -31,7 +33,7 @@ iron in 1903 gave a small initial boost to the home appliance industry. In the P
 economic expansion, the domestic use of dishwashers, and clothes dryers were part of a shift for 
 convenience. Increasing discretionary income was reflected by a rise in miscellaneous home appliances.
 ===================================================================================================
-Major appliances
+6. Major appliances
 
 Also know as white goods, comprise major household appliances and may include:
     -air conditioners
@@ -49,17 +51,68 @@ Also know as white goods, comprise major household appliances and may include:
 
 White goods were typically painted or enameled white, and many of them still are.
 ===================================================================================================
-Small appliances
+7. Small appliances
+
+Small appliances are typically small household electrical machines,also very useful and easily 
+carried and installed. Some are classified with white goods, and relate to heating and cooling 
+such as:
+
+    -fans
+    -air conditioners
+    -heaters
+    -ceramic heaters
+    -gas heaters
+    -kerosene heaters
+    -fan heaters
+    -juicers
+    -electric mixers
+    -meat grinders
+    -deep fryers
+    -herb grinders
+    -food processors
+    -electric kettles
+    -waffle irons
+    -coffee makers
+    -blenders
+===================================================================================================
+8. Consumer electronics
+
+Also known as home electronics are electronic (analog or digital) equipments intended for 
+everyday use, typically in private homes.
+
+Consumer electronics include devices used for entertainment:
+    -Flatscreens TVs
+    -DVD Players
+    -Video games
+    -Remote control
+    -Cars
+    -phones
+    -telephones
+    -laptops
+    -printers
+    -desktop computers
+    -paper shredders
+===================================================================================================
+9. Life span of major appliances (In years)
 
 
 ===================================================================================================
+10. Life span of small appliances (In years)
+
 
 ===================================================================================================
+11. Networking of home appliances
 
-===================================================================================================
+There is a trend of networking home appliances together, and combining their controls and key 
+functions. For instance, energy distribution could be managed more evenly so that when a washing 
+machine is on, an oven can go into a delayed start mode, or vice versa. Or, a washing machine and 
+clothes dryer could share information about load characteristics (gentle/normal, light/full), and 
+synchronize their finish times so the wet laundry does not have to wait before being put in the dryer.
 
-===================================================================================================
-
+Additionally, some manufacturers of home appliances are quickly beginning to place hardware that 
+enables Internet connectivity in home appliances to allow for remote control, automation, 
+communication with other home appliances, and more functionality. Internet-connected home 
+appliances were especially prevalent during recent Consumer Electronic Show events.
 ===================================================================================================
 
 ===================================================================================================
