@@ -110,31 +110,148 @@ enables Internet connectivity in home appliances to allow for remote control, au
 communication with other home appliances, and more functionality. Internet-connected home 
 appliances were especially prevalent during recent Consumer Electronic Show events.
 ===================================================================================================
+11. Health technologies
+
 
 ===================================================================================================
+12. What is it?
+
+Health technology is defined by the World Health Organization as the "application of organized 
+knowledge and skills in the form of devices, medicines, vaccines, procedures and systems developed 
+to solve a health problem and improve quality of lives".[1] This includes the pharmaceuticals, 
+devices, procedures and organizational systems used in health care.
+
+Health technology refers to the application of organized knowledge and skills in the form of 
+devices, medicines, vaccines, procedures and systems developed to solve a health problem and 
+improve quality of lives.
+===================================================================================================
+13. How technology is transforming health care
+
+Digital innovations have now made it possible for consumers to use portable devices to access their 
+medical information, monitor their vital signs, take tests at home and carry out a wide range of tasks. 
+In his book "The Creative Destruction of Medicine," Eric Topol, a cardiologist, geneticist and researcher, 
+describes how medicine is entering an age of democratization as power shifts from hospitals, doctors and 
+other caregivers to patients, potentially leading to dramatic health care improvements.
+
+In the mid-20th century Joseph Schumpeter, the noted Austrian economist, popularized the term 
+"creative destruction" to denote transformation that accompanies radical innovation. In recent years, 
+our world has been "Schumpetered."
+
+By virtue of the intensive infiltration of digital devices into our daily lives, we have radically 
+altered how we communicate with one another and with our entire social network at once. Everywhere we go, 
+we take pictures and videos with our cellphone, the one precious object that never leaves our side. 
+Forget about going to a video store to rent a movie and finding out it is not in stock. Just download it 
+at home and watch it on television, a computer monitor, a tablet or even your phone. The Web lets us 
+sample nearly all books in print without even making a purchase and efficiently download the whole book 
+in a flash. Our lives have been radically transformed through digital innovation. Radically transformed. 
+Creatively destroyed.
+===================================================================================================
+14. Ways that technology is changing health care
+
 
 ===================================================================================================
+15. Better and More Accessible Treatment
 
+A number of industry analysts have observed that increased accessibility of treatment is one of the 
+most tangible ways that technology has changed healthcare. Health IT opens up many more avenues of 
+exploration and research, which allows experts to make healthcare more driven and effective than it 
+has ever been.
 ===================================================================================================
+16. Improved Care and Efficiency
 
+Another key area that has grown and continues to do so is patient care. The use of information 
+technology has made patient care safer and more reliable in most applications.
+
+The fact that nurses and doctors who are working on the frontline are now routinely using hand-held 
+computers to record important real-time patient data and then sharing it instantly within their updated 
+medical history is an excellent illustration of the benefits of health IT.
+
+Being able to accumulate lab results, records of vital signs and other critical patient data into one 
+centralized area has transformed the level of care and efficiency a patient can expect to receive when
+they enter the healthcare system.
+
+An increased level of efficiency in data collection means that a vast online resource of patient 
+history is available to scientists, who are finding new ways to study trends and make medical 
+breakthroughs at a faster rate.
 ===================================================================================================
+17. Software Improves Healthcare and Disease Control
 
+The development of specific software programs means that, for example, the World Health Organization 
+has been able to classify illnesses, their causes and symptoms into a massive database that encompasses 
+more than 14,000 individual codes.
+
+This resource allows medical professionals and researchers to track, retrieve and utilize valuable data 
+in the fight to control disease and provide better healthcare outcomes in general.
+
+Software also plays a pivotal role in tracking procedures and using billing methods that not only 
+reduce paperwork levels, but also allow practitioners to use this data to improve quality of care and 
+all around efficiency.
+
+Doctors report that they are deriving enormous benefits from the drive toward a total system of electronic 
+medical records; patients enjoy the fact that software has created a greater degree of transparency in the 
+healthcare system.
+
+We have seen many positive changes in health IT and expect to continue witnessing more exciting developments
+in the future!
 ===================================================================================================
+18. The internet has become a main source of medical information
 
+According to the Pew Internet and American Life Project, in a 2004 survey of 8 million seniors who 
+use the internet, only 66% said they searched healthcare information online. In 2009 24 million 
+Americans reported the same.
+
+It goes without saying that more and more people are using the Internet to research their medical 
+issues. This means not only looking up symptoms, but exploring treatments and medicines on the web. 
+While it is never a good idea to skip out on the doctor completely, the Internet has made patients 
+more empowered to make decisions about what to do next.
 ===================================================================================================
+19. Healthcare facilities are reaching patients using social media
 
+It is easy to see how public clinics, doctor offices, and even research facilities can take advantage 
+of social media tools to reach wider populations. And there is evidence that they are going above 
+and beyond.
+
+Healthcare facilities, particularly hospitals, are using social media to establish contact with 
+patients, answer questions about practices, launch public awareness campaigns, and perform community 
+outreach. Some sophisticated sites even offer instant chats with nurses and doctors about medical 
+issues and reminders for people to get regularly needed tests and vaccines.
+
+These projects have taken off on college campuses but are rapidly spreading to more mainstream 
+institutions (Hey - even senior citizens are on Facebook now!). A detailed presentation on this 
+trend can found here.
 ===================================================================================================
+20. Better treatment and less suffering
 
+Let's not forget the most obvious way technology has changed healthcare: by providing new machines,
+medicines, and treatments that save lives and improve the chance of recovery for billions.
+
+Not only do sophisticated medical practices help patients heal directly; new technology has also 
+improved research so experts can make healthcare even more effective.
+
+This moving story of how new technology changed the life of someone who suffered from chronic 
+obstructive pulmonary disease is only one example of how lives are being changed in practical, 
+every-day terms.
 ===================================================================================================
+21. Online databases can accurately predict medical trends
 
+By analyzing health information that users search for online, search engines such as Google have 
+been able to accurately predict medical trends such as flu outbreaks.
+
+Google explains its process on Google.org:
+
+"Of course, not every person who searches for "flu" is actually sick, but a pattern emerges when all
+the flu-related search queries are added together. We compared our query counts with traditional flu 
+surveillance systems and found that many search queries tend to be popular exactly when flu season is 
+happening. By counting how often we see these search queries, we can estimate how much flu is 
+circulating in different countries and regions around the world."
+
+This breakthrough will help medical experts respond to outbreaks quickly as well as take preventative 
+measures. And as more and more people use the web to search for their own medical problems, these 
+internet giants will have even more information to apply to scientific studies.
 ===================================================================================================
-
+22. Short video about the future of health technology
 ===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
+23. Thanks.
 ===================================================================================================
 
 ===================================================================================================
