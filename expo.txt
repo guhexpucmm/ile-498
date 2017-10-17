@@ -118,7 +118,7 @@ appliances were especially prevalent during recent Consumer Electronic Show even
 
 Health technology is defined by the World Health Organization as the "application of organized 
 knowledge and skills in the form of devices, medicines, vaccines, procedures and systems developed 
-to solve a health problem and improve quality of lives".[1] This includes the pharmaceuticals, 
+to solve a health problem and improve quality of lives".This includes the pharmaceuticals, 
 devices, procedures and organizational systems used in health care.
 
 Health technology refers to the application of organized knowledge and skills in the form of 
@@ -232,7 +232,7 @@ This moving story of how new technology changed the life of someone who suffered
 obstructive pulmonary disease is only one example of how lives are being changed in practical, 
 every-day terms.
 ===================================================================================================
-21. 
+21. Onlie database can accurately predict medical trends
 
 By analyzing health information that users search for online, search engines such as Google have 
 been able to accurately predict medical trends such as flu outbreaks.
@@ -252,22 +252,4 @@ internet giants will have even more information to apply to scientific studies.
 22. Short video about the future of health technology
 ===================================================================================================
 23. Thanks.
-===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
-===================================================================================================
-
 ===================================================================================================
