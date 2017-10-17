@@ -16,14 +16,7 @@ Home appliances can be used for lots of differents task such as:
     -Toast breads
     -Make quick coffee
 ===================================================================================================
-4. How they can be classified?
-
-Home appliances can be classified into several categories:
-    -Major appliances
-    -Small appliances
-    -Consumer electronics
-===================================================================================================
-5. While many appliances have existed for centuries, the self-contained electric or gas powered 
+4. While many appliances have existed for centuries, the self-contained electric or gas powered 
 appliances are a uniquely American innovation that emerged in the twentieth century. 
 The development of these appliances is tied the disappearance of full-time domestic servants and 
 the desire to reduce the time consuming activities in pursuit of more recreational time. 
@@ -32,6 +25,13 @@ refrigerators and sewing machines. The invention of Earl Richardson's small elec
 iron in 1903 gave a small initial boost to the home appliance industry. In the Post–World War II 
 economic expansion, the domestic use of dishwashers, and clothes dryers were part of a shift for 
 convenience. Increasing discretionary income was reflected by a rise in miscellaneous home appliances.
+===================================================================================================
+5. How they can be classified?
+
+Home appliances can be classified into several categories:
+    -Major appliances
+    -Small appliances
+    -Consumer electronics
 ===================================================================================================
 6. Major appliances
 
@@ -232,7 +232,7 @@ This moving story of how new technology changed the life of someone who suffered
 obstructive pulmonary disease is only one example of how lives are being changed in practical, 
 every-day terms.
 ===================================================================================================
-21. Online databases can accurately predict medical trends
+21. 
 
 By analyzing health information that users search for online, search engines such as Google have 
 been able to accurately predict medical trends such as flu outbreaks.
